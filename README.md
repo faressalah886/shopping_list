@@ -34,13 +34,10 @@ Users can add items, select categories like fruits, vegetables, meat, etc., spec
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](assets/home_screen.png)
+![Home Screen](assets/1.png)
 
 ### Add Item Screen
-![Add Item](assets/add_item.png)
-
-### Shopping List Screen
-![Shopping List](assets/shopping_list.png)
+![Add Item](assets/2.png)
 
 ---
 
